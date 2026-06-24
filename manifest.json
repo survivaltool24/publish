@@ -1,0 +1,16 @@
+{
+  "name": "Survival Web Tool",
+  "short_name": "Survival",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#1a1a1a",
+  "description": "Offline First All-in-One Survival Tool",
+  "icons": [
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48ZGVmcz48bGluZWFyR3JhZGllbnQgaWQ9ImJnLWdyYWQiIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMTAwJSIgeTI9IjEwMCUiPjxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiNmZmI3NGQiIC8+PHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjZTY1MTAwIiAvPjwvbGluZWFyR3JhZGllbnQ+PGZpbHRlciBpZD0iZHJvcC1zaGFkb3ciPjxmZURyb3BTaGFkb3cgZHg9IjAiIGR5PSI4IiBzdGREZXZpYXRpb249IjYiIGZsb29kLWNvbG9yPSIjMDAwIiBmbG9vZC1vcGFjaXR5PSIwLjMiLz48L2ZpbHRlcj48L2RlZnM+PGNpcmNsZSBjeD0iMjU2IiBjeT0iMjU2IiByPSIyNDAiIGZpbGw9InVybCgjYmctZ3JhZCkiIC8+PGNpcmNsZSBjeD0iMjU2IiBjeT0iMjU2IiByPSIxOTAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzExMSIgc3Ryb2tlLXdpZHRoPSI0IiBzdHJva2UtZGFzaGFycmF5PSI4IDgiIG9wYWNpdHk9IjAuNiIgLz48ZyBmaWx0ZXI9InVybCgjZHJvcC1zaGFkb3cpIj48cGF0aCBkPSJNMjU2IDkwIEwyODUgMjIwIEw0MjIgMjU2IEwyODUgMjkyIEwyNTYgNDIyIEwyMjcgMjkyIEw5MCAyNTYgTDIyNyAyMjAgWiIgZmlsbD0iIzIxMjEyMSIgLz48cGF0aCBkPSJNMjU2IDkwIEwyODUgMjIwIEwyNTYgMjU2IEwyMjcgMjIwIFoiIGZpbGw9IiNmNDQzMzYiIC8+PHBhdGggZD0iTTI1NiAxODAgQzI4MCAyMzAgMzEwIDI1MCAzMTAgMjkwIEMzMTAgMzIwIDI4NiAzNDAgMjU2IDM0MCBDMjI2IDM0MCAyMDIgMzIwIDIwMiAyOTAgQzIwMiAyNjAgMjE1IDI0MCAyMzAgMjIwIEMyNDAgMjQwIDI1MCAyNTAgMjU2IDI2NSBDMjYwIDI0NSAyNTAgMjIwIDI1NiAxODAgWiIgZmlsbD0iI2ZmZmZmZiIgLz48L2c+PC9zdmc+",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
